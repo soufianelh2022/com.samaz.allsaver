@@ -19,25 +19,25 @@
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Менеджер",
-        "isActive": true,
+        "isActive": false,
         "appRating": "5.0",
         "appDescription": "V Менеджер — это инструмент для загрузки и обновления YV. Инструмент, предназначенный для упрощения установки YV."
     },
     "moreApps": [
         {
-            "image": "https://picsum.photos/300/200?random=23",
-            "title": "Прогноз погоды",
-            "appLink": "https://play.google.com/store/apps/weather"
+            "image": "https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games",
+            "title": "Rise of Kingdoms: Lost Crusade",
+            "appLink": "https://play-lh.googleusercontent.com/OmRFgoSS-iZDwzkMpygYEjbBkpY-_fpE2CEiEgj2KG0yoj2DcP01fbGMutWEf8ip2tiv=s48-rw"
         },
         {
-            "image": "https://picsum.photos/300/200?random=24",
-            "title": "Фитнес-трекер",
-            "appLink": "https://play.google.com/store/apps/fitness"
+            "image": "https://play-lh.googleusercontent.com/WNMUSZrsU36cyLuBXqWu7ZEIFgl71pDi2mBu3eqVX9v6CuxHEAYnKZOQ8umWM6kl5qM=s48-rw",
+            "title": "Call of Spartan",
+            "appLink": "https://play.google.com/store/apps/details?id=com.tap4fun.callofsparta"
         },
         {
-            "image": "https://picsum.photos/300/200?random=25",
-            "title": "Книга рецептов",
-            "appLink": "https://play.google.com/store/apps/recipe"
+            "image": "https://play-lh.googleusercontent.com/DaUzYRy0vB4CiPu0HtYmN4hRx4Av6LRYmWC_E2sOcyj6wh48Y8JeFAmy1ak47ZGXUw=s48-rw",
+            "title": "Grow Empire: Rome",
+            "appLink": "https://play.google.com/store/apps/details?id=com.empire.grow.rome"
         }
     ],
     "categories": [
@@ -45,99 +45,99 @@
             "items": [
                 {
                     "size": "2.8 MB",
-                    "image": "https://picsum.photos/300/200?random=2",
-                    "title": "Приключенческий квест",
+                    "image": "https://pic.rutubelist.ru/video/8a/56/8a56384c1284e4f86e4675afc02ef3f9.jpg",
+                    "title": "Жосткая заруба в Standoff",
                     "lastUpdated": "2024-03-15",
                     "isrecommended": true
                 },
                 {
                     "size": "1.5 MB",
-                    "image": "https://picsum.photos/300/200?random=3",
+                    "image": "https://i.ytimg.com/vi/vSUsxD7QFlo/maxresdefault.jpg",
                     "title": "Мастер головоломок",
                     "lastUpdated": "2024-03-10",
                     "isrecommended": false
                 },
                 {
                     "size": "4.2 MB",
-                    "image": "https://picsum.photos/300/200?random=4",
+                    "image": "https://i.ytimg.com/vi/_BeQaNMj3jA/maxresdefault.jpg",
                     "title": "Звезды гонок",
                     "lastUpdated": "2024-03-20",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=1",
+            "categoryImage": "https://i.ytimg.com/vi/XFCdcTwRWMU/maxresdefault.jpg",
             "categoryTitle": "Игры"
         },
         {
             "items": [
                 {
                     "size": "1.2 MB",
-                    "image": "https://picsum.photos/300/200?random=6",
+                    "image": "https://i.ytimg.com/vi/mYIE2eUTOjo/maxresdefault.jpg",
                     "title": "Проводник файлов Pro",
                     "lastUpdated": "2024-03-18",
                     "isrecommended": true
                 },
                 {
                     "size": "0.8 MB",
-                    "image": "https://picsum.photos/300/200?random=7",
+                    "image": "https://i.ytimg.com/vi/Fi2DzULna9c/maxresdefault.jpg",
                     "title": "Экономия батареи",
                     "lastUpdated": "2024-03-12",
                     "isrecommended": false
                 },
                 {
                     "size": "1.0 MB",
-                    "image": "https://picsum.photos/300/200?random=8",
+                    "image": "https://i.ytimg.com/vi/s_fpLoeg0tU/maxresdefault.jpg",
                     "title": "Калькулятор Plus",
                     "lastUpdated": "2024-03-22",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=5",
+            "categoryImage": "https://i.ytimg.com/vi/O7cVxXzxTuc/maxresdefault.jpg",
             "categoryTitle": "Утилиты"
         },
         {
             "items": [
                 {
                     "size": "3.5 MB",
-                    "image": "https://picsum.photos/300/200?random=10",
+                    "image": "https://i.ytimg.com/vi/YPIoiTiWC2s/maxresdefault.jpg",
                     "title": "Музыкальный плеер",
                     "lastUpdated": "2024-03-25",
                     "isrecommended": true
                 },
                 {
                     "size": "5.2 MB",
-                    "image": "https://picsum.photos/300/200?random=11",
+                    "image": "https://i.ytimg.com/vi/SgCBQlQCd1Q/maxresdefault.jpg",
                     "title": "Видеоредактор",
                     "lastUpdated": "2024-03-19",
                     "isrecommended": false
                 },
                 {
                     "size": "2.1 MB",
-                    "image": "https://picsum.photos/300/200?random=12",
+                    "image": "https://i.ytimg.com/vi/OyK914Vu9XI/maxresdefault.jpg",
                     "title": "Галерея фото",
                     "lastUpdated": "2024-03-21",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=9",
+            "categoryImage": "https://i.ytimg.com/vi/6IHkFVpLIuw/maxresdefault.jpg",
             "categoryTitle": "Развлечения"
         }
     ],
     "youtubeVideos": [
         {
-            "image": "https://picsum.photos/300/200?random=13",
+            "image": "https://i.ytimg.com/vi/wPBz1E4m3Lo/maxresdefault.jpg",
             "title": "Учебник для начинающих",
-            "videoLink": "https://youtube.com/watch?v=abc123"
+            "videoLink": "https://www.youtube.com/shorts/fYR4RQ73sA0"
         },
         {
-            "image": "https://picsum.photos/300/200?random=14",
+            "image": "https://i.ytimg.com/vi/2UyAVB8dNjc/maxresdefault.jpg",
             "title": "Руководство по расширенным функциям",
-            "videoLink": "https://youtube.com/watch?v=def456"
+            "videoLink": "https://www.youtube.com/shorts/BLE07YxzL4g"
         },
         {
-            "image": "https://picsum.photos/300/200?random=15",
+            "image": "https://i.ytimg.com/vi/enRczc_93VM/maxresdefault.jpg",
             "title": "Советы и хитрости",
-            "videoLink": "https://youtube.com/watch?v=ghi789"
+            "videoLink": "https://www.youtube.com/shorts/GBVLd7spYhc"
         }
     ],
     "sharedStrings": {
@@ -180,7 +180,7 @@
         "send_feedback": "Отправить отзыв",
         "settings_text": "Настройки",
         "watch_ad_text": "Смотреть рекламу",
-        "welcome_title": "Добро пожаловать в Skin Tool ML",
+        "welcome_title": "Добро пожаловать в читы стандофф 2 0.30.0 ",
         "chooseLanguage": "Выберите язык",
         "daily_congrats": "Поздравляем!",
         "downloads_left": "скачиваний осталось",
@@ -188,8 +188,8 @@
         "drawer_privacy": "Политика конфиденциальности",
         "favorites_text": "Избранное",
         "pack_skin_list": "Список паков скинов",
-        "save_to_ml_btn": "СОХРАНИТЬ В ML",
-        "save_to_ml_msg": "Используйте кнопку СОХРАНИТЬ В ML, чтобы начать процесс установки. Пропустите этот шаг, если вы уже установили.",
+        "save_to_ml_btn": "СОХРАНИТЬ В читы стандофф 2 0.30.0  ",
+        "save_to_ml_msg": "Используйте кнопку СОХРАНИТЬ В читы стандофф 2 0.30.0  , чтобы начать процесс установки. Пропустите этот шаг, если вы уже установили.",
         "categories_text": "Категории",
       
         "delete_skin_sub": "Вы уверены, что хотите удалить этот скин?",
@@ -213,8 +213,8 @@
     "success_download_sub": "Мы усердно работаем над улучшением пользовательского опыта. Если вам нравится наше приложение, оцените нас на 5 звезд.",
     "download_success_title": "Загрузка успешна",
     "get_more_downloads_sub": "Посмотрите рекламу, чтобы получить еще одну загрузку",
-    "installation_error_msg": "ML не установлен на вашем устройстве.",
-    "installation_error_sub": "ML не установлен на вашем устройстве.",
+    "installation_error_msg": "читы стандофф 2 0.30.0  не установлен на вашем устройстве.",
+    "installation_error_sub": "читы стандофф 2 0.30.0  не установлен на вашем устройстве.",
     "installation_error_title": "Ошибка установки",
     "installation_success_sub": "Скин был успешно установлен"
     }
