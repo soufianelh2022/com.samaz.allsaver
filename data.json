@@ -1,3 +1,4 @@
+
 {
     "ads": {
         "adNetwork": "yandex",
@@ -17,25 +18,25 @@
         "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
-        "appTitle": "V Manager",
+        "appTitle": "V Менеджер",
         "isActive": true,
         "appRating": "5.0",
-        "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
+        "appDescription": "V Менеджер — это инструмент для загрузки и обновления YV. Инструмент, предназначенный для упрощения установки YV."
     },
     "moreApps": [
         {
             "image": "https://picsum.photos/300/200?random=23",
-            "title": "Weather Pro",
+            "title": "Прогноз погоды",
             "appLink": "https://play.google.com/store/apps/weather"
         },
         {
             "image": "https://picsum.photos/300/200?random=24",
-            "title": "Fitness Tracker",
+            "title": "Фитнес-трекер",
             "appLink": "https://play.google.com/store/apps/fitness"
         },
         {
             "image": "https://picsum.photos/300/200?random=25",
-            "title": "Recipe Book",
+            "title": "Книга рецептов",
             "appLink": "https://play.google.com/store/apps/recipe"
         }
     ],
@@ -45,175 +46,176 @@
                 {
                     "size": "2.8 MB",
                     "image": "https://picsum.photos/300/200?random=2",
-                    "title": "Adventure Quest",
+                    "title": "Приключенческий квест",
                     "lastUpdated": "2024-03-15",
                     "isrecommended": true
                 },
                 {
                     "size": "1.5 MB",
                     "image": "https://picsum.photos/300/200?random=3",
-                    "title": "Puzzle Master",
+                    "title": "Мастер головоломок",
                     "lastUpdated": "2024-03-10",
                     "isrecommended": false
                 },
                 {
                     "size": "4.2 MB",
                     "image": "https://picsum.photos/300/200?random=4",
-                    "title": "Racing Stars",
+                    "title": "Звезды гонок",
                     "lastUpdated": "2024-03-20",
                     "isrecommended": true
                 }
             ],
             "categoryImage": "https://picsum.photos/300/200?random=1",
-            "categoryTitle": "Games"
+            "categoryTitle": "Игры"
         },
         {
             "items": [
                 {
                     "size": "1.2 MB",
                     "image": "https://picsum.photos/300/200?random=6",
-                    "title": "File Manager Pro",
+                    "title": "Проводник файлов Pro",
                     "lastUpdated": "2024-03-18",
                     "isrecommended": true
                 },
                 {
                     "size": "0.8 MB",
                     "image": "https://picsum.photos/300/200?random=7",
-                    "title": "Battery Saver",
+                    "title": "Экономия батареи",
                     "lastUpdated": "2024-03-12",
                     "isrecommended": false
                 },
                 {
                     "size": "1.0 MB",
                     "image": "https://picsum.photos/300/200?random=8",
-                    "title": "Calculator Plus",
+                    "title": "Калькулятор Plus",
                     "lastUpdated": "2024-03-22",
                     "isrecommended": true
                 }
             ],
             "categoryImage": "https://picsum.photos/300/200?random=5",
-            "categoryTitle": "Utilities"
+            "categoryTitle": "Утилиты"
         },
         {
             "items": [
                 {
                     "size": "3.5 MB",
                     "image": "https://picsum.photos/300/200?random=10",
-                    "title": "Music Player",
+                    "title": "Музыкальный плеер",
                     "lastUpdated": "2024-03-25",
                     "isrecommended": true
                 },
                 {
                     "size": "5.2 MB",
                     "image": "https://picsum.photos/300/200?random=11",
-                    "title": "Video Editor",
+                    "title": "Видеоредактор",
                     "lastUpdated": "2024-03-19",
                     "isrecommended": false
                 },
                 {
                     "size": "2.1 MB",
                     "image": "https://picsum.photos/300/200?random=12",
-                    "title": "Photo Gallery",
+                    "title": "Галерея фото",
                     "lastUpdated": "2024-03-21",
                     "isrecommended": true
                 }
             ],
             "categoryImage": "https://picsum.photos/300/200?random=9",
-            "categoryTitle": "Entertainment"
+            "categoryTitle": "Развлечения"
         }
     ],
     "youtubeVideos": [
         {
             "image": "https://picsum.photos/300/200?random=13",
-            "title": "Getting Started Tutorial",
+            "title": "Учебник для начинающих",
             "videoLink": "https://youtube.com/watch?v=abc123"
         },
         {
             "image": "https://picsum.photos/300/200?random=14",
-            "title": "Advanced Features Guide",
+            "title": "Руководство по расширенным функциям",
             "videoLink": "https://youtube.com/watch?v=def456"
         },
         {
             "image": "https://picsum.photos/300/200?random=15",
-            "title": "Tips and Tricks",
+            "title": "Советы и хитрости",
             "videoLink": "https://youtube.com/watch?v=ghi789"
         }
     ],
     "sharedStrings": {
-        "ok_btn": "Ok",
-        "bonus_5": "+ Bonus 5 coins",
-        "no_text": "No",
-        "nothing": "Nothing!!",
-        "bonus_10": "+ Bonus 10 coins",
-        "bonus_20": "+ Bonus 20 coins",
-        "bonus_50": "+ Bonus 50 coins",
-        "done_btn": "Done",
-        "new_text": "New",
-        "next_btn": "Next",
-        "skip_btn": "Skip",
-        "the_best": "The best we can get",
-        "yes_text": "Yes",
-        "daily_sub": "You have received 1 free coin",
-        "home_text": "Home",
-        "menu_text": "Menu",
-        "ready_sub": "Let's start the journey now.",
-        "size_text": "Size:",
-        "cancel_btn": "Cancel",
-        "coins_text": "coins",
-        "delete_btn": "DELETE",
-        "empty_list": "The list is empty",
-        "ad_coin_sub": "Watch an ad to get 1 coin",
-        "delete_skin": "Delete skin",
-        "drawer_rate": "Rate Us",
-        "install_btn": "Install",
-        "ready_title": "Are you ready?",
-        "search_hint": "Search",
-        "welcome_sub": "Amazing Android app with cool features.",
-        "continue_btn": "Continue",
-        "download_btn": "Download",
-        "drawer_share": "Send Download Link to Friends",
-        "exit_message": "Do you want to exit app?",
-        "rate_app_btn": "Rate app",
-        "see_all_text": "See all",
-        "daily_message": "Every day you will receive 1 free coin the first time you visit this screen. In addition, you can earn more coins here.",
-        "send_feedback": "Send us a feedback",
-        "settings_text": "Settings",
-        "watch_ad_text": "Watch ad",
-        "welcome_title": "Welcome to Skin Tool ML",
-        "chooseLanguage": "Choose language",
-        "daily_congrats": "Congratulations!",
-        "downloads_left": "download left",
-        "drawer_account": "Account: Basic",
-        "drawer_privacy": "Privacy Policy",
-        "favorites_text": "Favorites",
-        "pack_skin_list": "Pack Skin List",
-        "save_to_ml_btn": "SAVE TO ML",
-        "save_to_ml_msg": "Use the SAVE TO ML button to start the installation process. Please skip this step if you have already installed it",
-        "categories_text": "Categories",
-        "delete_skin_sub": "Are you sure you want to delete this skin?",
-        "dont_show_again": "Don't show this app again",
-        "downloaded_text": "Downloaded",
-        "drawer_language": "Language: English",
-        "get_started_btn": "Get started",
-        "more_apps_title": "More Apps",
-        "drawer_more_apps": "More Apps",
-        "get_free_coin_ad": "Get 1 free coin",
-        "save_instruction": "Use the button below to start the installation process. Please skip this step if you have already installed it.",
-        "success_download": "Download successful",
-        "download_received": "You have received 1 more download",
-        "last_updated_text": "Last updated:",
-        "recommended_title": "Recommended for you",
-        "get_more_downloads": "Get more downloads",
-        "installation_error": "Installation error",
-        "the_best_we_can_get": "The best we can get",
-        "download_success_msg": "We are working hard for better user experience, if you love us, please rate us 5 stars.",
-        "installation_success": "Installation success",
-        "success_download_sub": "We are working hard for better user experience, if you love us, please rate 5 stars",
-        "download_success_title": "Download successful",
-        "get_more_downloads_sub": "Watch an ad to get 1 more download",
-        "installation_error_msg": "ML is not installed on your device.",
-        "installation_error_sub": "ML is not installed on your device.",
-        "installation_error_title": "Installation error",
-        "installation_success_sub": "The Skin was installed successfully"
+        "ok_btn": "Ок",
+        "bonus_5": "+ Бонус 5 монет",
+        "no_text": "Нет",
+        "nothing": "Ничего!!",
+        "bonus_10": "+ Бонус 10 монет",
+        "bonus_20": "+ Бонус 20 монет",
+        "bonus_50": "+ Бонус 50 монет",
+        "done_btn": "Готово",
+        "new_text": "Новый",
+        "next_btn": "Далее",
+        "skip_btn": "Пропустить",
+        "the_best": "Лучшее из возможного",
+        "yes_text": "Да",
+        "daily_sub": "Вы получили 1 бесплатную монету",
+        "home_text": "Главная",
+        "menu_text": "Меню",
+        "ready_sub": "Начнем путешествие сейчас.",
+        "size_text": "Размер:",
+        "cancel_btn": "Отмена",
+        "coins_text": "монеты",
+        "delete_btn": "Удалить",
+        "empty_list": "Список пуст",
+        "ad_coin_sub": "Посмотрите рекламу, чтобы получить 1 монету",
+        "delete_skin": "Удалить скин",
+        "drawer_rate": "Оцените нас",
+        "install_btn": "Установить",
+        "ready_title": "Вы готовы?",
+        "search_hint": "Поиск",
+        "welcome_sub": "Удивительное Android приложение с крутыми функциями.",
+        "continue_btn": "Продолжить",
+        "download_btn": "Скачать",
+        "drawer_share": "Отправить ссылку на скачивание друзьям",
+        "exit_message": "Вы хотите выйти из приложения?",
+        "rate_app_btn": "Оценить приложение",
+        "see_all_text": "Смотреть все",
+        "daily_message": "Каждый день вы будете получать 1 бесплатную монету при первом посещении этого экрана. Также вы можете заработать больше монет здесь.",
+        "send_feedback": "Отправить отзыв",
+        "settings_text": "Настройки",
+        "watch_ad_text": "Смотреть рекламу",
+        "welcome_title": "Добро пожаловать в Skin Tool ML",
+        "chooseLanguage": "Выберите язык",
+        "daily_congrats": "Поздравляем!",
+        "downloads_left": "скачиваний осталось",
+        "drawer_account": "Аккаунт: Базовый",
+        "drawer_privacy": "Политика конфиденциальности",
+        "favorites_text": "Избранное",
+        "pack_skin_list": "Список паков скинов",
+        "save_to_ml_btn": "СОХРАНИТЬ В ML",
+        "save_to_ml_msg": "Используйте кнопку СОХРАНИТЬ В ML, чтобы начать процесс установки. Пропустите этот шаг, если вы уже установили.",
+        "categories_text": "Категории",
+      
+        "delete_skin_sub": "Вы уверены, что хотите удалить этот скин?",
+    "dont_show_again": "Не показывать это приложение снова",
+    "downloaded_text": "Загружено",
+    "drawer_language": "Язык: Английский",
+    "get_started_btn": "Начать",
+    "more_apps_title": "Больше приложений",
+    "drawer_more_apps": "Больше приложений",
+    "get_free_coin_ad": "Получите 1 бесплатную монету",
+    "save_instruction": "Используйте кнопку ниже, чтобы начать процесс установки. Пропустите этот шаг, если вы уже установили его.",
+    "success_download": "Загрузка успешно завершена",
+    "download_received": "Вы получили еще одну загрузку",
+    "last_updated_text": "Последнее обновление:",
+    "recommended_title": "Рекомендуем вам",
+    "get_more_downloads": "Получить больше загрузок",
+    "installation_error": "Ошибка установки",
+    "the_best_we_can_get": "Лучшее, что мы можем получить",
+    "download_success_msg": "Мы усердно работаем над улучшением пользовательского опыта. Если вам нравится наше приложение, оцените нас на 5 звезд.",
+    "installation_success": "Установка успешно завершена",
+    "success_download_sub": "Мы усердно работаем над улучшением пользовательского опыта. Если вам нравится наше приложение, оцените нас на 5 звезд.",
+    "download_success_title": "Загрузка успешна",
+    "get_more_downloads_sub": "Посмотрите рекламу, чтобы получить еще одну загрузку",
+    "installation_error_msg": "ML не установлен на вашем устройстве.",
+    "installation_error_sub": "ML не установлен на вашем устройстве.",
+    "installation_error_title": "Ошибка установки",
+    "installation_success_sub": "Скин был успешно установлен"
     }
 }
